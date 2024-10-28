@@ -6,7 +6,7 @@ Backend Engineer
 I'm a backend developer who mainly code using java  
 * ✉️  You can contact me at [kelvinkho64@gmail.com](mailto:kelvinkho64@gmail.com)
 * 🧠  I'm currently learning about Artificial Intelligence and Data Structure
-* Here's a for fun [website](kelvinportfolios.vercel.app) that i made. 
+* Here's a for fun [website](https://kelvinportfolios.vercel.app) that i made. 
 
 ### Skills  
 
